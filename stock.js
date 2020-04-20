@@ -59,5 +59,6 @@ console.log(account('Bob'));
 console.log(account('Charlie'));
 console.log(account('null','acctNum','null'));
 console.log(account('Alice','asc'));
+console.log(account('Alice','dsc'));)
 
 
